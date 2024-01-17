@@ -112,5 +112,6 @@
   <img src="https://myreadme.vercel.app/api/embed/ABHISHEK-VASHISTH?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
 </div>
 <div align="">
-  [![Spotify](https://spotify-nowplaying-widget.vercel.app/api/spotify)](https://open.spotify.com/artist/31prhvo3akcyjfy5kl6tvmefwqoe)
+  [<img src=(https://spotify-nowplaying-widget.vercel.app/api/spotify) width="350" />]
+  (https://open.spotify.com/artist/31prhvo3akcyjfy5kl6tvmefwqoe)
 </div>
