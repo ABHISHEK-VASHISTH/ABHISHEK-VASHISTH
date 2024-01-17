@@ -120,7 +120,8 @@
 
 <div align="">
 
-  <img src="https://spotify-nowplaying-widget.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-nowplaying-widget.vercel.app/api" alt="Current Spotify Song"/>
+  (https://open.spotify.com/artist/31prhvo3akcyjfy5kl6tvmefwqoe)
 
-  <!--<img src="https://spotify-nowplaying-widget.vercel.app/api/spotify" width="350" /> (https://open.spotify.com/artist/31prhvo3akcyjfy5kl6tvmefwqoe)-->
+  <!--<img src="https://spotify-nowplaying-widget.vercel.app/api/spotify" width="350" /> -->
 </div>
