@@ -120,7 +120,7 @@
 
 <div align="">
 
-  <img src="https://spotify-nowplaying-widget.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true">
   (https://open.spotify.com/artist/31prhvo3akcyjfy5kl6tvmefwqoe)</img>
 
   <!--<img src="https://spotify-nowplaying-widget.vercel.app/api/spotify" width="350" /> -->
