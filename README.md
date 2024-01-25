@@ -121,6 +121,5 @@
 <div align="">
 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true">
-
-  <!--<img src="https://spotify-nowplaying-widget.vercel.app/api/spotify" width="350" /> -->
+ <!--<img src="https://spotify-nowplaying-widget.vercel.app/api/spotify" width="350" /> -->
 </div>
