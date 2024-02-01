@@ -112,7 +112,7 @@
   <img src="https://myreadme.vercel.app/api/embed/ABHISHEK-VASHISTH?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
 </div>
 
-###
+###.
 
 <h3 align="left">🎧  Spotify NowPlaying: </h3>
 
