@@ -115,6 +115,11 @@
 ###
 
 <h3 align="left">🎧  Spotify NowPlaying: </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABHISHEK-VASHISTH&show_icons=true&locale=en&layout=compact" alt="ABHISHEK-VASHISTH" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-VASHISTH&show_icons=true&locale=en" alt="ABHISHEK-VASHISTH" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEK-VASHISTH&" alt="ABHISHEK-VASHISTH" /></p>
 
 ###
 
