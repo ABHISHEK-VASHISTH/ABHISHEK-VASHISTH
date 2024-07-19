@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="center">Learner || Programmer || Developer</h1>
+<h1 className="bg-gradient-to-r from-red-500 via-yellow-500 to-orange-500 bg-clip-text tracking-tight text-transparent" align="center">Learner || Programmer || Developer</h1>
 
 ###
 
