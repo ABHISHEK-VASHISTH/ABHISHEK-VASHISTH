@@ -34,7 +34,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Learner || Programmer || Developer</h1>
 
 ###
 
