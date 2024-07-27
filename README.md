@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
+  <img alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 <br><br>
 
 ###
